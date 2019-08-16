@@ -1,8 +1,8 @@
-#!/usr/bin/perl
+#!/usr/bin/perl  <--this is a shebang
 
-#Author - Vijay Nagarajan PhD
-#print a string - hello vijay
-print "Hello Raj\n";
+#Author - vm-data-analytics
+#print a string - hello cientificalatina 
+print "Hello cientificalatina\n";
 
 
 
